@@ -19,7 +19,7 @@ const seoFAQs: FAQItem[] = [
   {
     question: "How much does pool cleaning cost in Bali?",
     answer:
-      "Pool cleaning costs in Bali vary based on pool size, frequency of service, and specific requirements. Our weekly pool maintenance Bali packages typically range from affordable rates for small residential pools to premium packages for larger villa pools and resort facilities. We offer three main service levels: Essential Care (weekly visits for small pools), Premium Care (weekly comprehensive service for villas), and Resort Standard (2-3x weekly for commercial properties). Contact us for a free, no-obligation quote tailored to your specific pool and needs. We provide transparent pricing with no hidden fees.",
+      "Pool cleaning costs in Bali vary based on pool size, frequency of service, and specific requirements. We offer three main service levels: Essential Care (weekly visits for small pools), Premium Care (weekly comprehensive service for villas), and Resort Standard (2-3x weekly for commercial properties). Contact us for a free, no-obligation quote tailored to your specific pool and needs. We provide transparent pricing with no hidden fees and can customize any package to fit your budget.",
   },
   {
     question: "How often should a swimming pool be serviced in Bali's climate?",
@@ -54,7 +54,7 @@ const seoFAQs: FAQItem[] = [
   {
     question: "Do you offer monthly pool maintenance contracts?",
     answer:
-      "Yes! We offer flexible monthly pool maintenance Bali contracts tailored to your needs. Our contracts include: weekly or bi-weekly scheduled visits, guaranteed service times, priority emergency response, discounted rates compared to one-time service, comprehensive digital reporting and tracking, dedicated technician assignment, seasonal adjustments (monsoon protocols), and equipment maintenance schedules. Contracts can be customized for villa pool cleaning Bali, residential properties, or commercial facilities. We offer month-to-month flexibility or longer-term agreements with additional savings. All contracts include our satisfaction guarantee - if you're not happy with our service, we'll make it right or release you from the contract. Contact us to discuss a maintenance plan designed for your specific pool and budget.",
+      "Yes! We offer flexible monthly pool maintenance Bali contracts tailored to your needs. Our contracts include: weekly or bi-weekly scheduled visits, guaranteed service times, priority emergency response, comprehensive digital reporting and tracking, dedicated technician assignment, seasonal adjustments (monsoon protocols), and equipment maintenance schedules. Contracts can be customized for villa pool cleaning Bali, residential properties, or commercial facilities. We offer month-to-month flexibility or longer-term agreements. All contracts include our satisfaction guarantee - if you're not happy with our service, we'll make it right or release you from the contract. Contact us to discuss a maintenance plan designed for your specific pool and budget.",
   },
   {
     question: "Do you service pools in residential and commercial properties across Bali?",
