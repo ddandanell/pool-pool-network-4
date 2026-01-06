@@ -13,7 +13,7 @@ export interface FAQItem {
 interface FAQSectionProps {
   title?: string;
   subtitle?: string;
-  faqs: FAQItem[];
+  faqs?: FAQItem[];
   className?: string;
 }
 
