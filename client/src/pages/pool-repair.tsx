@@ -159,34 +159,34 @@ export default function PoolRepair() {
   return (
     <Layout>
       <SEO
-        title="Pool Repair Bali | 24/7 Emergency Pool Repair Services"
-        description="Expert pool repair services in Bali available 24/7. We fix pumps, filters, leaks, tiles, and all pool equipment. Fast response times across the island for villas and resorts."
-        keywords="pool repair Bali, pool pump repair Bali, pool leak repair Bali, swimming pool repair Bali, pool equipment repair Bali, emergency pool repair Bali"
+        title="Pool Rescue & Cleaning Bali | Emergency Pool Repair | Green Pool Cleaning"
+        description="24/7 Pool rescue & cleaning Bali service. Emergency pool repair for green, murky pools. Fast pump, filter, leak repair. Villa pool cleaning and kolam renang rescue in Seminyak, Canggu, Ubud, Sanur."
+        keywords="pool rescue cleaning Bali, emergency pool repair Bali, green pool cleaning Bali, pool rescue service Bali, algae pool cleaning Bali, 24/7 pool repair, villa pool rescue Bali, kolam renang rescue Bali"
         structuredData={{
           ...businessStructuredData,
           "@type": "Service",
-          name: "Pool Repair Bali",
-          serviceType: "Pool Repair",
+          name: "Pool Rescue & Cleaning Bali",
+          serviceType: "Pool Repair and Rescue",
           description:
-            "24/7 emergency pool repair services in Bali including pump repair, leak detection, filter repair, and equipment troubleshooting.",
+            "24/7 emergency pool rescue & cleaning Bali services including green pool restoration, pump repair, leak detection, and equipment troubleshooting.",
         }}
       />
 
       {/* Hero Section */}
       <HeroSection
-        title="Pool Repair Bali"
-        subtitle="24/7 Emergency Service"
-        description="Expert pool repair services for pumps, filters, leaks, and all pool equipment. Fast response times across Bali for emergencies and scheduled repairs. Get your pool back in action quickly."
-        primaryButtonText="Emergency Repair"
+        title="Pool Rescue & Cleaning Bali | Emergency Pool Repair"
+        subtitle="24/7 Emergency Green Pool Rescue Service"
+        description="Expert pool rescue & cleaning Bali for green, murky, algae-filled pools. Fast emergency pool repair for pumps, filters, leaks across Bali. Specialized villa pool rescue in Seminyak, Canggu, Ubud, Sanur. 24/7 kolam renang rescue service."
+        primaryButtonText="Emergency Rescue"
         primaryButtonLink="tel:+6282237565997"
         secondaryButtonText="Schedule Repair"
         secondaryButtonLink="/contact"
         backgroundImage={techImage}
-        imageAlt="Professional pool repair service in Bali - Technician fixing pool equipment"
+        imageAlt="Professional pool rescue & cleaning Bali service - Emergency pool repair technician"
         badges={[
           "24/7 Available",
           "Fast Response",
-          "All Brands Serviced",
+          "Green Pool Rescue",
         ]}
         compact={true}
       />
@@ -218,38 +218,46 @@ export default function PoolRepair() {
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-3xl sm:text-4xl font-serif font-bold text-primary mb-6">
-                Professional Pool Repair Services in Bali
+                Professional Pool Rescue & Cleaning Bali | Emergency Pool Repair
               </h2>
             </div>
 
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p>
-                When your pool equipment fails or you discover a problem, you need fast, reliable
-                repair service from experienced professionals. Bali Pool Pros offers comprehensive
-                pool repair Bali services for all types of issues, from minor fixes to major
-                equipment overhauls. Our team of certified technicians is available 24/7 for
-                emergencies, ensuring you're never left with a non-functional pool for long.
+                When your pool equipment fails or your pool turns green, you need fast, reliable
+                <strong>pool rescue & cleaning Bali</strong> service from experienced professionals. 
+                Bali Pool Pros offers comprehensive <strong>emergency pool repair</strong> and 
+                <strong>green pool cleaning</strong> services for all types of issues, from minor fixes 
+                to major equipment overhauls and complete pool rescue. Our team of certified technicians 
+                is available 24/7 for emergencies in Seminyak, Canggu, Ubud, Sanur, and throughout Bali, 
+                ensuring you're never left with a non-functional or murky pool for long.
               </p>
               <p>
                 Pool equipment in Bali faces unique stresses. The humid tropical climate accelerates
                 corrosion, power fluctuations can damage motors, and the intense UV exposure degrades
-                plastic and rubber components faster than in temperate regions. Our pool repair Bali
-                specialists understand these local challenges and have the expertise to diagnose
-                and fix problems efficiently.
+                plastic and rubber components faster than in temperate regions. Our <strong>pool rescue & 
+                cleaning Bali</strong> specialists understand these local challenges and have the expertise 
+                to diagnose and fix problems efficiently. We specialize in <strong>villa pool rescue</strong> 
+                services and <strong>kolam renang rescue Bali</strong> (layanan darurat kolam renang) for 
+                all property types.
               </p>
               <p>
                 We service all major brands of pool equipment and maintain a stock of common
-                replacement parts to minimize repair time. For specialized parts, we have
-                established relationships with suppliers across Indonesia and internationally
-                to source what you need quickly. Whether you have a small villa pool or manage
-                a resort with multiple pools, we have the skills and resources to handle your
-                repair needs.
+                replacement parts to minimize repair time. Our <strong>green pool cleaning service</strong> can 
+                restore even the most algae-filled, murky pools to crystal clear condition within days. 
+                For specialized parts, we have established relationships with suppliers across Indonesia and 
+                internationally to source what you need quickly. Whether you have a small <strong>villa pool 
+                in Canggu</strong> or manage a resort with multiple pools in <strong>Seminyak or Ubud</strong>, 
+                we have the skills and resources to handle your emergency <strong>pool rescue & cleaning Bali</strong> needs.
               </p>
               <p>
                 Our commitment to quality means we don't just fix the immediate problem—we identify
                 the root cause and address it to prevent future issues. Every repair comes with
-                a warranty, and we provide clear documentation of the work performed. You can
-                trust Bali Pool Pros for honest, professional pool repair service throughout Bali.
+                a warranty, and we provide clear documentation of the work performed. <Link href="/faq" 
+                className="text-primary font-medium hover:underline">Visit our FAQ page</Link> to learn more 
+                about our <strong>emergency pool repair response times</strong> and <strong>green pool 
+                cleaning process</strong>. You can trust Bali Pool Pros for honest, professional <strong>pool 
+                rescue & cleaning Bali</strong> service throughout the island.
               </p>
             </div>
           </div>

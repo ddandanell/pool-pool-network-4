@@ -28,23 +28,23 @@ import dashboardImage from "@assets/generated_images/pool_maintenance_digital_re
 const services = [
   {
     icon: Sparkles,
-    title: "Pool Cleaning Bali",
+    title: "Bali Pool Cleaning Service",
     description:
-      "Professional pool cleaning services tailored for Bali's tropical conditions. Our expert team removes debris, algae, and buildup to keep your pool crystal clear.",
+      "Professional Bali pool cleaning service tailored for tropical conditions. Our expert villa pool cleaning removes debris, algae, and buildup. Weekly and bi-weekly kolam renang service available in Seminyak, Canggu, Ubud.",
     link: "/pool-maintenance",
   },
   {
     icon: Wrench,
-    title: "Pool Repair Bali",
+    title: "Pool Rescue & Cleaning Bali",
     description:
-      "Fast, reliable pool repair services for pumps, filters, heaters, and structural issues. Available 24/7 for emergencies throughout Bali.",
+      "Emergency pool rescue & cleaning Bali for green, murky pools. Fast, reliable pool repair services for pumps, filters, heaters. Available 24/7 for emergencies throughout Bali including Sanur, Uluwatu, Nusa Dua.",
     link: "/pool-repair",
   },
   {
     icon: Settings,
-    title: "Pool Installation Bali",
+    title: "Villa Pool Cleaning Bali",
     description:
-      "Complete swimming pool installation from design to completion. We build custom pools for villas, resorts, and residential properties across Bali.",
+      "Specialized villa pool cleaning Bali and installation services. Complete swimming pool installation from design to completion for villas, resorts, and residential properties across Bali.",
     link: "/pool-installation",
   },
 ];
@@ -60,23 +60,23 @@ export default function Home() {
   return (
     <Layout>
       <SEO
-        title="Pool Service in Bali | Expert Pool Maintenance, Repair & Installation"
-        description="Bali Pool Pros offers professional pool service in Bali including pool maintenance, cleaning, repair, and installation. Trusted by villas and resorts across Bali since 2010."
-        keywords="pool service Bali, pool maintenance Bali, pool cleaning Bali, pool repair Bali, swimming pool installation Bali, Bali pool experts"
+        title="Bali Pool Cleaning Service | Pool Maintenance Bali | Villa Pool Cleaning"
+        description="Professional Bali pool cleaning service and pool maintenance. Expert villa pool cleaning Bali, pool rescue & cleaning, kolam renang service in Seminyak, Canggu, Ubud, Sanur. Trusted since 2010."
+        keywords="Bali pool cleaning service, pool maintenance Bali, kolam renang Bali service, pool rescue cleaning Bali, villa pool cleaning Bali, pool service Seminyak, pool cleaning Canggu, pool maintenance Ubud"
         structuredData={businessStructuredData}
       />
 
       {/* Hero Section */}
       <HeroSection
-        title="Premier Pool Service in Bali"
-        subtitle="Trusted Since 2010"
-        description="Expert pool maintenance, cleaning, repair, and installation services for villas, resorts, and residential properties throughout Bali. Keep your pool pristine in paradise with Bali's leading pool service provider."
+        title="Premier Bali Pool Cleaning Service"
+        subtitle="Professional Pool Maintenance Bali Since 2010"
+        description="Expert pool maintenance Bali, villa pool cleaning, pool rescue & cleaning, and kolam renang service for villas, resorts, and residential properties. Serving Seminyak, Canggu, Ubud, Sanur, and all of Bali with certified technicians and eco-friendly methods."
         primaryButtonText="Get Free Quote"
         primaryButtonLink="/contact"
         secondaryButtonText="View Our Services"
         secondaryButtonLink="/services"
         backgroundImage={heroImage}
-        imageAlt="Luxury infinity pool overlooking Bali rice terraces - Professional pool service Bali"
+        imageAlt="Luxury infinity pool with professional Bali pool cleaning service - Villa pool maintenance"
         badges={[
           "Licensed Technicians",
           "Eco-Friendly Methods",
@@ -89,25 +89,24 @@ export default function Home() {
         <div className="container mx-auto px-4 sm:px-6">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl sm:text-4xl font-serif font-bold text-primary mb-6">
-              Bali's Most Trusted Pool Service Provider
+              Bali's Most Trusted Pool Cleaning Service & Maintenance Provider
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-              Welcome to Bali Pool Pros, your premier destination for professional pool
-              service in Bali. For over 15 years, we have been the trusted choice for
-              villa owners, resort managers, and homeowners seeking exceptional pool
-              maintenance, cleaning, repair, and installation services across the Island
-              of the Gods. Our team of certified Bali pool experts understands the unique
-              challenges that Bali's tropical climate presents for pool care. From the
-              humidity that accelerates algae growth to the mineral-rich local water sources
-              that can cause buildup, we have the expertise and equipment to keep your pool
-              in pristine condition year-round.
+              Welcome to Bali Pool Pros, your premier <strong>Bali pool cleaning service</strong> destination. 
+              For over 15 years, we have been the trusted choice for villa owners, resort managers, and homeowners 
+              seeking exceptional <strong>pool maintenance Bali</strong>, villa pool cleaning, pool rescue & cleaning, 
+              and complete <strong>kolam renang Bali service</strong> across the Island of the Gods. Our team of certified 
+              pool experts understands the unique challenges that Bali's tropical climate presents. From high humidity 
+              that accelerates algae growth to mineral-rich water sources, we have the expertise and equipment to keep 
+              your pool pristine year-round.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Whether you own a private villa in Ubud, manage a luxury resort in Seminyak,
-              or have a family home in Sanur, our comprehensive pool service Bali solutions
-              are tailored to meet your specific needs. We combine international standards
-              with local expertise to deliver results that exceed expectations while using
-              eco-friendly methods that protect Bali's beautiful environment.
+              Whether you own a private villa in <strong>Ubud pool maintenance</strong>, manage a luxury resort in 
+              <strong>Seminyak pool cleaning</strong>, or have a family home in <strong>Sanur</strong>, our comprehensive 
+              pool maintenance Bali solutions are tailored to meet your specific needs. We serve all major areas including 
+              <strong>Canggu, Jimbaran, Uluwatu, Nusa Dua, Kuta, Legian, Denpasar, Tabanan, and Gianyar</strong>. 
+              Our <strong>villa pool cleaning Bali</strong> services combine international standards with local expertise, 
+              using eco-friendly methods that protect Bali's beautiful environment while delivering exceptional results.
             </p>
           </div>
         </div>
@@ -136,11 +135,12 @@ export default function Home() {
         <div className="container mx-auto px-4 sm:px-6">
           <div className="text-center mb-12">
             <h2 className="text-3xl sm:text-4xl font-serif font-bold text-primary mb-4">
-              Comprehensive Pool Services in Bali
+              Comprehensive Bali Pool Cleaning Service & Maintenance
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              From regular maintenance to complete installations, we offer everything
-              your pool needs to stay beautiful and functional in Bali's tropical climate.
+              From regular <strong>pool maintenance Bali</strong> to complete villa pool installations, 
+              we offer everything your pool needs including <strong>pool rescue & cleaning Bali</strong> 
+              for emergency situations and <strong>kolam renang service</strong> in your local area.
             </p>
           </div>
 
@@ -324,31 +324,35 @@ export default function Home() {
               <p>
                 Bali's tropical climate, while beautiful, presents unique challenges for pool
                 owners. The island's high humidity levels, averaging 80-90% throughout the year,
-                create perfect conditions for algae and bacterial growth. Without proper pool
-                maintenance in Bali, even the most pristine pool can quickly become a breeding
-                ground for unwanted organisms.
+                create perfect conditions for algae and bacterial growth. Without proper <strong>pool 
+                maintenance Bali</strong> and regular <strong>Bali pool cleaning service</strong>, even 
+                the most pristine pool can quickly become a breeding ground for unwanted organisms.
               </p>
               <p>
                 The monsoon season, typically running from November to March, brings heavy
                 rainfall that can dramatically alter your pool's water chemistry. Rainwater is
                 naturally acidic and can quickly throw off your pool's pH balance, while also
-                introducing contaminants and debris. Our pool cleaning Bali services are designed
-                to address these seasonal challenges with proactive maintenance schedules that
-                increase service frequency during the wet season.
+                introducing contaminants and debris. Our <strong>pool cleaning service in Canggu, Seminyak, 
+                and Ubud</strong> is designed to address these seasonal challenges with proactive maintenance 
+                schedules that increase service frequency during the wet season. Our <strong>villa pool cleaning 
+                Bali</strong> experts understand these unique conditions.
               </p>
               <p>
                 Additionally, Bali's water sources often have high mineral content, particularly
                 calcium and magnesium. While these minerals are harmless to swimmers, they can
-                cause scaling on pool surfaces and equipment if not properly managed. Our pool
-                service Bali team uses specialized treatments and filtration methods to prevent
-                mineral buildup and extend the life of your pool infrastructure.
+                cause scaling on pool surfaces and equipment if not properly managed. Our <strong>pool 
+                maintenance Bali</strong> team uses specialized treatments and filtration methods to prevent
+                mineral buildup and extend the life of your pool infrastructure. Whether you need regular 
+                <strong>kolam renang Bali service</strong> or emergency <strong>pool rescue & cleaning Bali</strong>, 
+                we're here to help.
               </p>
               <p>
                 The intense tropical sun also plays a significant role in pool maintenance. UV
                 rays break down chlorine faster than in temperate climates, meaning pools in Bali
-                require more frequent chemical adjustments. Our technicians are trained to balance
+                require more frequent chemical adjustments. Our certified technicians are trained to balance
                 these factors, ensuring your pool remains safe and inviting despite the environmental
-                challenges.
+                challenges. <Link href="/faq" className="text-primary font-medium hover:underline">Visit our FAQ page</Link> to 
+                learn more about <strong>pool cleaning costs in Bali</strong> and service frequency recommendations.
               </p>
             </div>
           </div>
@@ -375,8 +379,9 @@ export default function Home() {
             Ready for Crystal Clear Pool Water?
           </h2>
           <p className="text-lg sm:text-xl text-primary-foreground/80 max-w-2xl mx-auto mb-10 font-light">
-            Join hundreds of satisfied clients across Bali who trust us with their pool
-            care. Get your free consultation and quote today.
+            Join hundreds of satisfied clients across Seminyak, Canggu, Ubud, Sanur, and all of Bali who 
+            trust us with their <strong>pool maintenance Bali</strong> and <strong>villa pool cleaning</strong> 
+            needs. Get your free consultation and quote for our <strong>Bali pool cleaning service</strong> today.
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center gap-4">
