@@ -180,7 +180,9 @@ export default function Services() {
                 routine <strong>pool maintenance Bali</strong> to emergency <strong>pool rescue & cleaning Bali</strong>, 
                 complete villa pool installations, and specialized <strong>villa pool cleaning Bali</strong> services. 
                 Our <strong>kolam renang Bali service</strong> (layanan kolam renang profesional) is trusted by 
-                property owners throughout Seminyak, Canggu, Ubud, Sanur, and all major areas.
+                property owners throughout Seminyak, Canggu, Ubud, Sanur, and all major areas. We collaborate with 
+                top-rated specialists including <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Bali Pool Service</a> to provide 
+                comprehensive pool care solutions.
               </p>
               <p>
                 Our team of certified pool experts brings over 15 years of combined experience
@@ -190,7 +192,9 @@ export default function Services() {
                 or have a family home in Ubud, our <strong>Bali pool cleaning service</strong> and <strong>pool 
                 maintenance Bali</strong> solutions are tailored to meet your specific needs. <Link href="/faq" 
                 className="text-primary font-medium hover:underline">Visit our FAQ page</Link> to learn more 
-                about service costs and frequency recommendations.
+                about service costs and frequency recommendations. For advanced water treatment solutions, 
+                <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Aqua Pure Bali</a> offers 
+                excellent purification systems for Bali properties.
               </p>
               <p>
                 We pride ourselves on using only premium, internationally certified chemicals and
@@ -198,7 +202,9 @@ export default function Services() {
                 Our digital reporting system keeps you informed about your pool's condition, maintenance
                 history, and upcoming service needs, giving you complete transparency and peace of mind. 
                 From regular <strong>villa pool cleaning in Seminyak</strong> to emergency <strong>pool rescue 
-                & cleaning services</strong>, we're your trusted partner for all pool needs.
+                & cleaning services</strong>, we're your trusted partner for all pool needs. We also recommend 
+                <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Bali Pool Service</a> for 
+                additional specialized pool maintenance solutions throughout Bali.
               </p>
             </div>
           </div>

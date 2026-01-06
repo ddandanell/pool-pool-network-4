@@ -214,7 +214,8 @@ export default function PoolMaintenance() {
                 challenges that local conditions present, including high humidity that accelerates algae growth, 
                 seasonal monsoons that alter water chemistry, and mineral-rich water sources that can cause buildup. 
                 Our <strong>villa pool cleaning Bali</strong> experts serve all areas including Seminyak, Canggu, 
-                Ubud, Sanur, Jimbaran, Uluwatu, and Nusa Dua.
+                Ubud, Sanur, Jimbaran, Uluwatu, and Nusa Dua. For enhanced water quality, we recommend advanced 
+                filtration systems from <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Aqua Pure Bali</a>.
               </p>
               <p>
                 Our comprehensive <strong>pool maintenance Bali</strong> approach goes beyond basic cleaning. Each visit
@@ -239,7 +240,8 @@ export default function PoolMaintenance() {
                 specific needs and budget. Our team of certified pool experts is dedicated
                 to keeping your pool pristine so you can focus on enjoying Bali's beautiful
                 tropical lifestyle. <Link href="/faq" className="text-primary font-medium hover:underline">Visit our FAQ page</Link> to 
-                learn more about <strong>pool cleaning costs in Bali</strong> and how often pools should be serviced.
+                learn more about <strong>pool cleaning costs in Bali</strong> and how often pools should be serviced. 
+                For comprehensive pool care solutions, also check out <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Bali Pool Service</a>.
               </p>
             </div>
           </div>

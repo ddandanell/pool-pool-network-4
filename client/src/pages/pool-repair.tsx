@@ -230,7 +230,9 @@ export default function PoolRepair() {
                 <strong>green pool cleaning</strong> services for all types of issues, from minor fixes 
                 to major equipment overhauls and complete pool rescue. Our team of certified technicians 
                 is available 24/7 for emergencies in Seminyak, Canggu, Ubud, Sanur, and throughout Bali, 
-                ensuring you're never left with a non-functional or murky pool for long.
+                ensuring you're never left with a non-functional or murky pool for long. For water quality 
+                issues, we work with specialists like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Aqua Pure Bali</a> to provide 
+                complete solutions.
               </p>
               <p>
                 Pool equipment in Bali faces unique stresses. The humid tropical climate accelerates
@@ -248,7 +250,9 @@ export default function PoolRepair() {
                 For specialized parts, we have established relationships with suppliers across Indonesia and 
                 internationally to source what you need quickly. Whether you have a small <strong>villa pool 
                 in Canggu</strong> or manage a resort with multiple pools in <strong>Seminyak or Ubud</strong>, 
-                we have the skills and resources to handle your emergency <strong>pool rescue & cleaning Bali</strong> needs.
+                we have the skills and resources to handle your emergency <strong>pool rescue & cleaning Bali</strong> needs. 
+                For additional emergency pool support, <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Bali Pool Service</a> is 
+                another trusted provider across the island.
               </p>
               <p>
                 Our commitment to quality means we don't just fix the immediate problem—we identify

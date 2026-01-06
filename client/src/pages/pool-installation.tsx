@@ -219,7 +219,8 @@ export default function PoolInstallation() {
                 pools that enhance your property and provide years of enjoyment in Bali's tropical paradise. 
                 Our <strong>kolam renang installation Bali</strong> services (jasa instalasi kolam renang) 
                 combine international standards with local expertise in areas like Seminyak, Canggu, Ubud, 
-                and Sanur.
+                and Sanur. For water treatment systems, we recommend <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Aqua Pure Bali</a> for 
+                optimal water quality in your new pool.
               </p>
               <p>
                 Our <strong>villa pool</strong> installation process begins with understanding your vision. Whether
@@ -242,7 +243,9 @@ export default function PoolInstallation() {
                 Every pool installation Bali project comes with our comprehensive warranty and
                 the option for ongoing maintenance through our pool service Bali team. We're
                 not just building a pool—we're creating a long-term relationship to ensure your
-                pool remains beautiful and functional for years to come.
+                pool remains beautiful and functional for years to come. For ongoing support and maintenance, 
+                also consider <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Bali Pool Service</a> for 
+                comprehensive pool care solutions.
               </p>
             </div>
           </div>

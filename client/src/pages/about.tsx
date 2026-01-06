@@ -189,14 +189,17 @@ export default function About() {
                 comprehensive pool repair Bali services, complete swimming pool installation Bali
                 projects, and specialized water treatment solutions. We've grown our team to
                 include certified technicians, customer service professionals, and technical
-                consultants who bring diverse expertise to every project.
+                consultants who bring diverse expertise to every project. Our commitment to excellence 
+                has led us to partner with industry leaders like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Aqua Pure Bali</a> for 
+                advanced water purification systems.
               </p>
               <p>
                 Today, Bali Pool Pros is proud to serve some of the island's most prestigious
                 properties, from five-star resorts in Nusa Dua to private villas in Ubud's rice
                 terraces. Our commitment to excellence, eco-friendly practices, and exceptional
                 customer service has earned us the trust of property owners and managers across
-                Bali.
+                Bali. We collaborate with trusted partners like <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Bali Pool Service</a> to 
+                ensure comprehensive coverage across the island.
               </p>
               <p>
                 As we look to the future, we remain dedicated to our founding principles: providing
