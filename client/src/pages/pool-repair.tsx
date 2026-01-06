@@ -178,7 +178,7 @@ export default function PoolRepair() {
         subtitle="24/7 Emergency Service"
         description="Expert pool repair services for pumps, filters, leaks, and all pool equipment. Fast response times across Bali for emergencies and scheduled repairs. Get your pool back in action quickly."
         primaryButtonText="Emergency Repair"
-        primaryButtonLink="tel:+6281234567890"
+        primaryButtonLink="tel:+6282237565997"
         secondaryButtonText="Schedule Repair"
         secondaryButtonLink="/contact"
         backgroundImage={techImage}
@@ -202,10 +202,10 @@ export default function PoolRepair() {
                 Call our 24/7 emergency line for immediate assistance
               </p>
             </div>
-            <a href="tel:+6281234567890">
+            <a href="tel:+6282237565997">
               <Button className="bg-white text-red-600 hover:bg-white/90 rounded-none h-12 px-8 font-bold">
                 <Phone className="w-4 h-4 mr-2" />
-                +62 812 3456 7890
+                +62 822-3756-5997
               </Button>
             </a>
           </div>
@@ -394,7 +394,7 @@ export default function PoolRepair() {
               </div>
 
               <div className="flex flex-col sm:flex-row gap-4 pt-4">
-                <a href="tel:+6281234567890">
+                <a href="tel:+6282237565997">
                   <Button className="w-full sm:w-auto bg-red-600 hover:bg-red-700 text-white rounded-none h-12 px-8">
                     <Phone className="w-4 h-4 mr-2" />
                     Emergency Line
@@ -514,7 +514,7 @@ export default function PoolRepair() {
             repair service anywhere in Bali.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <a href="tel:+6281234567890">
+            <a href="tel:+6282237565997">
               <Button
                 size="lg"
                 className="w-full sm:w-auto bg-white text-primary hover:bg-white/90 rounded-none h-14 px-8 text-lg font-bold shadow-xl"

@@ -130,7 +130,7 @@ const installationFAQs: FAQItem[] = [
   {
     question: "What is the cost of building a pool in Bali?",
     answer:
-      "Pool installation costs in Bali vary based on size, design, and features. A basic rectangular pool (8x4m) typically starts from $15,000-20,000 USD. Infinity edge pools, custom shapes, and premium finishes increase costs. We provide detailed quotes after site assessment and design consultation. Our pricing is transparent with no hidden fees.",
+      "Contact us to get a price. Pool installation costs in Bali vary based on size, design, and features. We provide detailed quotes after site assessment and design consultation. Our pricing is transparent with no hidden fees.",
   },
   {
     question: "Do you handle all permits for pool construction in Bali?",
