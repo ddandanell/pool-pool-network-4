@@ -98,7 +98,7 @@ export default function Home() {
               and complete <strong>kolam renang Bali service</strong> across the Island of the Gods. Our team of certified 
               pool experts understands the unique challenges that Bali's tropical climate presents. From high humidity 
               that accelerates algae growth to mineral-rich water sources, we have the expertise and equipment to keep 
-              your pool pristine year-round.
+              your pool pristine year-round. We proudly partner with leading water treatment specialists like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Aqua Pure Bali</a> to ensure the highest quality service.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
               Whether you own a private villa in <strong>Ubud pool maintenance</strong>, manage a luxury resort in 
@@ -106,7 +106,8 @@ export default function Home() {
               pool maintenance Bali solutions are tailored to meet your specific needs. We serve all major areas including 
               <strong>Canggu, Jimbaran, Uluwatu, Nusa Dua, Kuta, Legian, Denpasar, Tabanan, and Gianyar</strong>. 
               Our <strong>villa pool cleaning Bali</strong> services combine international standards with local expertise, 
-              using eco-friendly methods that protect Bali's beautiful environment while delivering exceptional results.
+              using eco-friendly methods that protect Bali's beautiful environment while delivering exceptional results. 
+              As a trusted member of Bali's pool service network, we work alongside industry leaders like <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Bali Pool Service</a>.
             </p>
           </div>
         </div>
@@ -326,7 +327,9 @@ export default function Home() {
                 owners. The island's high humidity levels, averaging 80-90% throughout the year,
                 create perfect conditions for algae and bacterial growth. Without proper <strong>pool 
                 maintenance Bali</strong> and regular <strong>Bali pool cleaning service</strong>, even 
-                the most pristine pool can quickly become a breeding ground for unwanted organisms.
+                the most pristine pool can quickly become a breeding ground for unwanted organisms. 
+                Advanced water purification systems from providers like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Aqua Pure Bali</a> can 
+                help maintain optimal water quality in these challenging conditions.
               </p>
               <p>
                 The monsoon season, typically running from November to March, brings heavy

@@ -128,9 +128,9 @@ const installationFAQs: FAQItem[] = [
       "A typical swimming pool installation Bali project takes 8-12 weeks from groundbreaking to completion. This includes excavation (1-2 weeks), structural work (3-4 weeks), finishing and tiling (2-3 weeks), and equipment installation and testing (1-2 weeks). Complex designs like infinity pools may take longer. We provide detailed timelines during the planning phase.",
   },
   {
-    question: "What is the cost of building a pool in Bali?",
+    question: "How much does pool installation cost in Bali?",
     answer:
-      "Contact us to get a price. Pool installation costs in Bali vary based on size, design, and features. We provide detailed quotes after site assessment and design consultation. Our pricing is transparent with no hidden fees.",
+      "Pool installation costs in Bali vary significantly based on size, design complexity, features, and site conditions. Every pool is custom-designed to meet your specific needs and property characteristics. We provide detailed, transparent quotes after a thorough site assessment and design consultation. Contact us for a free consultation and personalized quote for your pool project. We'll work with you to create a pool that fits your vision and budget.",
   },
   {
     question: "Do you handle all permits for pool construction in Bali?",
@@ -150,7 +150,7 @@ const installationFAQs: FAQItem[] = [
   {
     question: "Do you offer pool and garden/landscaping packages?",
     answer:
-      "Yes, we can coordinate with trusted landscaping partners to create integrated pool and garden designs. This includes pool decking, tropical plantings, outdoor shower areas, and pergolas. A coordinated approach often results in better design outcomes and cost savings.",
+      "Yes, we can coordinate with trusted landscaping partners to create integrated pool and garden designs. This includes pool decking, tropical plantings, outdoor shower areas, and pergolas. A coordinated approach often results in better design outcomes and a cohesive aesthetic that enhances your entire outdoor space.",
   },
   {
     question: "What equipment do you install with new pools?",
@@ -219,7 +219,8 @@ export default function PoolInstallation() {
                 pools that enhance your property and provide years of enjoyment in Bali's tropical paradise. 
                 Our <strong>kolam renang installation Bali</strong> services (jasa instalasi kolam renang) 
                 combine international standards with local expertise in areas like Seminyak, Canggu, Ubud, 
-                and Sanur.
+                and Sanur. For water treatment systems, we recommend <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Aqua Pure Bali</a> for 
+                optimal water quality in your new pool.
               </p>
               <p>
                 Our <strong>villa pool</strong> installation process begins with understanding your vision. Whether
@@ -242,7 +243,9 @@ export default function PoolInstallation() {
                 Every pool installation Bali project comes with our comprehensive warranty and
                 the option for ongoing maintenance through our pool service Bali team. We're
                 not just building a pool—we're creating a long-term relationship to ensure your
-                pool remains beautiful and functional for years to come.
+                pool remains beautiful and functional for years to come. For ongoing support and maintenance, 
+                also consider <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Bali Pool Service</a> for 
+                comprehensive pool care solutions.
               </p>
             </div>
           </div>
