@@ -66,7 +66,7 @@ export const generalPoolFAQs: FAQItem[] = [
   {
     question: "How do I get a quote for pool services in Bali?",
     answer:
-      "Getting a quote is easy! Simply contact us via phone, email, or our online contact form. We'll schedule a free site visit to assess your pool and provide a detailed, transparent quote. Our pool service Bali pricing is competitive with no hidden fees.",
+      "Getting a quote is easy! Simply contact us via phone, email, or our online contact form. We'll schedule a free site visit to assess your pool and provide a detailed, transparent quote. Contact us to get a price for our competitive pool service rates in Bali with no hidden fees.",
   },
 ];
 

@@ -115,7 +115,7 @@ export const businessStructuredData = {
   description:
     "Professional pool service in Bali offering pool maintenance, cleaning, repair, and installation for villas, resorts, and residential properties.",
   url: "https://balipoolpros.com",
-  telephone: "+62 812 3456 7890",
+  telephone: "+62 822-3756-5997",
   email: "info@balipoolpros.com",
   address: {
     "@type": "PostalAddress",
@@ -144,7 +144,7 @@ export const businessStructuredData = {
       closes: "15:00",
     },
   ],
-  priceRange: "$$",
+
   image:
     "https://balipoolpros.com/attached_assets/generated_images/luxury_bali_resort_infinity_pool_at_sunset.png",
   sameAs: [
