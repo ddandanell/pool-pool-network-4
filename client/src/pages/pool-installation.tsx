@@ -168,34 +168,34 @@ export default function PoolInstallation() {
   return (
     <Layout>
       <SEO
-        title="Pool Installation Bali | Custom Swimming Pool Builders"
-        description="Expert swimming pool installation in Bali. Custom pool design and construction for villas, resorts, and homes. Infinity pools, concrete pools, and more. 10-year structural warranty."
-        keywords="pool installation Bali, swimming pool installation Bali, pool builders Bali, pool construction Bali, infinity pool Bali, custom pool Bali"
+        title="Villa Pool Cleaning Bali | Pool Installation | Custom Pool Builders"
+        description="Expert villa pool cleaning Bali and custom swimming pool installation. Professional pool builders for villas, resorts. Infinity pools, kolam renang installation in Seminyak, Canggu, Ubud. 10-year warranty."
+        keywords="villa pool cleaning Bali, pool installation Bali, swimming pool installation Bali, pool builders Bali, custom pool Bali, infinity pool Bali, kolam renang installation Bali, villa pool Seminyak, pool builders Canggu"
         structuredData={{
           ...businessStructuredData,
           "@type": "Service",
-          name: "Pool Installation Bali",
-          serviceType: "Pool Installation",
+          name: "Villa Pool Cleaning Bali & Installation",
+          serviceType: "Pool Installation and Villa Pool Services",
           description:
-            "Custom swimming pool design and installation in Bali including infinity pools, concrete pools, and commercial pools for resorts.",
+            "Custom swimming pool design and installation in Bali including infinity pools, villa pool cleaning, and complete kolam renang services for villas and resorts.",
         }}
       />
 
       {/* Hero Section */}
       <HeroSection
-        title="Pool Installation Bali"
-        subtitle="Custom Pool Builders"
-        description="Create your dream pool in paradise with Bali's trusted pool installation experts. From sleek infinity edges to classic designs, we build custom pools that complement Bali's stunning landscapes."
+        title="Villa Pool Cleaning Bali | Pool Installation Services"
+        subtitle="Custom Pool Builders & Villa Pool Maintenance"
+        description="Create your dream villa pool with Bali's trusted pool installation experts. Specialized villa pool cleaning Bali, custom pool design, infinity pools, and complete kolam renang installation services in Seminyak, Canggu, Ubud, Sanur for villas and resorts."
         primaryButtonText="Start Your Project"
         primaryButtonLink="/contact"
         secondaryButtonText="View Pool Types"
         secondaryButtonLink="#pool-types"
         backgroundImage={heroImage}
-        imageAlt="Luxury infinity pool installation in Bali overlooking tropical landscape"
+        imageAlt="Luxury villa pool installation in Bali with infinity edge and professional pool cleaning service"
         badges={[
           "10-Year Warranty",
+          "Villa Pool Specialists",
           "Custom Designs",
-          "Local Expertise",
         ]}
         compact={true}
       />
@@ -206,7 +206,7 @@ export default function PoolInstallation() {
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-3xl sm:text-4xl font-serif font-bold text-primary mb-6">
-                Expert Swimming Pool Installation in Bali
+                Expert Villa Pool Cleaning Bali & Swimming Pool Installation
               </h2>
             </div>
 
@@ -214,18 +214,21 @@ export default function PoolInstallation() {
               <p>
                 Building a pool in Bali is a significant investment that requires the right
                 combination of design expertise, construction skills, and local knowledge.
-                At Bali Pool Pros, we bring over 15 years of swimming pool installation Bali
-                experience to every project, creating stunning pools that enhance your property
-                and provide years of enjoyment in Bali's tropical paradise.
+                At Bali Pool Pros, we bring over 15 years of <strong>swimming pool installation Bali</strong>
+                and <strong>villa pool cleaning Bali</strong> experience to every project, creating stunning 
+                pools that enhance your property and provide years of enjoyment in Bali's tropical paradise. 
+                Our <strong>kolam renang installation Bali</strong> services (jasa instalasi kolam renang) 
+                combine international standards with local expertise in areas like Seminyak, Canggu, Ubud, 
+                and Sanur.
               </p>
               <p>
-                Our pool installation process begins with understanding your vision. Whether
-                you dream of a dramatic infinity pool overlooking rice terraces, a family-friendly
-                pool for your villa, or a commercial-grade installation for a resort, our design
-                team works with you to create the perfect pool for your needs and budget. We
-                consider your property's unique characteristics, the surrounding landscape,
-                and Bali's architectural styles to create a pool that feels like a natural
-                extension of your home or resort.
+                Our <strong>villa pool</strong> installation process begins with understanding your vision. Whether
+                you dream of a dramatic infinity pool overlooking rice terraces in Ubud, a family-friendly
+                pool for your villa in Canggu, or a commercial-grade installation for a resort in Seminyak, 
+                our design team works with you to create the perfect pool. We specialize in <strong>villa pool 
+                cleaning Bali</strong> and understand that villas require pools designed for both beauty and easy 
+                maintenance. Our team considers your property's unique characteristics, the surrounding landscape,
+                and Bali's architectural styles to create a pool that feels like a natural extension of your property.
               </p>
               <p>
                 Construction in Bali presents unique challenges including tropical weather,
