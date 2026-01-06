@@ -15,6 +15,7 @@ const navLinks = [
       { href: "/pool-installation", label: "Pool Installation" },
     ],
   },
+  { href: "/faq", label: "FAQ" },
   { href: "/blog", label: "Blog" },
   { href: "/contact", label: "Contact" },
 ];

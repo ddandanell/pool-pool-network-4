@@ -3,17 +3,19 @@ import { Droplets, Facebook, Instagram, Twitter, Youtube } from "lucide-react";
 
 const footerLinks = {
   services: [
-    { href: "/pool-maintenance", label: "Pool Maintenance" },
-    { href: "/pool-repair", label: "Pool Repair" },
-    { href: "/pool-installation", label: "Pool Installation" },
+    { href: "/pool-maintenance", label: "Pool Maintenance Bali" },
+    { href: "/pool-repair", label: "Pool Rescue & Cleaning" },
+    { href: "/pool-installation", label: "Villa Pool Cleaning" },
     { href: "/services", label: "All Services" },
   ],
   company: [
     { href: "/about", label: "About Us" },
+    { href: "/faq", label: "FAQ" },
     { href: "/blog", label: "Blog" },
     { href: "/contact", label: "Contact" },
   ],
   resources: [
+    { href: "/faq", label: "Pool Service FAQ" },
     { href: "/blog", label: "Pool Care Tips" },
     { href: "/contact", label: "Free Quote" },
   ],
@@ -42,9 +44,9 @@ export default function Footer() {
               </span>
             </div>
             <p className="leading-relaxed">
-              Bali's premier pool service provider since 2010. Expert pool maintenance, 
-              repair, and installation services for villas, resorts, and residential properties 
-              throughout the island.
+              <strong>Bali pool cleaning service</strong> provider since 2010. Expert <strong>pool maintenance Bali</strong>, 
+              <strong>villa pool cleaning</strong>, <strong>pool rescue & cleaning</strong>, and <strong>kolam renang service</strong> for 
+              villas, resorts, and residential properties throughout Seminyak, Canggu, Ubud, Sanur, and all of Bali.
             </p>
             <div className="flex gap-4 pt-4">
               {socialLinks.map((social) => (
