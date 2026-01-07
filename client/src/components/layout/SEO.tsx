@@ -15,7 +15,7 @@ export default function SEO({
   description,
   keywords,
   canonicalUrl,
-  ogImage = "/attached_assets/generated_images/luxury_bali_resort_infinity_pool_at_sunset.png",
+  ogImage = "/attached_assets/images/luxury_bali_resort_infinity_pool_at_sunset.png",
   structuredData,
 }: SEOProps) {
   const [location] = useLocation();
@@ -146,7 +146,7 @@ export const businessStructuredData = {
   ],
 
   image:
-    "https://balipoolpros.com/attached_assets/generated_images/luxury_bali_resort_infinity_pool_at_sunset.png",
+    "https://balipoolpros.com/attached_assets/images/luxury_bali_resort_infinity_pool_at_sunset.png",
   sameAs: [
     "https://www.facebook.com/balipoolpros",
     "https://www.instagram.com/balipoolpros",

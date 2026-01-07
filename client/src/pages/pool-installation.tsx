@@ -22,8 +22,8 @@ import {
 } from "lucide-react";
 import { Link } from "wouter";
 
-import heroImage from "@assets/generated_images/luxury_bali_resort_infinity_pool_at_sunset.png";
-import dashboardImage from "@assets/generated_images/pool_maintenance_digital_report_dashboard.png";
+import heroImage from "@assets/images/luxury_bali_resort_infinity_pool_at_sunset.png";
+import dashboardImage from "@assets/images/pool_maintenance_digital_report_dashboard.png";
 
 // Pool types we build
 const poolTypes = [
