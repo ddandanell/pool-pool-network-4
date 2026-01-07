@@ -21,9 +21,9 @@ import {
 } from "lucide-react";
 import { Link } from "wouter";
 
-import heroImage from "@assets/generated_images/luxury_bali_resort_infinity_pool_at_sunset.png";
-import techImage from "@assets/generated_images/professional_pool_technician_testing_water.png";
-import dashboardImage from "@assets/generated_images/pool_maintenance_digital_report_dashboard.png";
+import heroImage from "@assets/images/luxury_bali_resort_infinity_pool_at_sunset.png";
+import techImage from "@assets/images/professional_pool_technician_testing_water.png";
+import dashboardImage from "@assets/images/pool_maintenance_digital_report_dashboard.png";
 
 const services = [
   {

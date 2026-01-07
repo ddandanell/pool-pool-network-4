@@ -29,7 +29,7 @@ import {
 } from "lucide-react";
 import { Link } from "wouter";
 
-import heroImage from "@assets/generated_images/luxury_bali_resort_infinity_pool_at_sunset.png";
+import heroImage from "@assets/images/luxury_bali_resort_infinity_pool_at_sunset.png";
 
 // Contact methods
 const contactMethods = [

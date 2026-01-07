@@ -24,8 +24,8 @@ import {
 } from "lucide-react";
 import { Link } from "wouter";
 
-import heroImage from "@assets/generated_images/luxury_bali_resort_infinity_pool_at_sunset.png";
-import techImage from "@assets/generated_images/professional_pool_technician_testing_water.png";
+import heroImage from "@assets/images/luxury_bali_resort_infinity_pool_at_sunset.png";
+import techImage from "@assets/images/professional_pool_technician_testing_water.png";
 
 // Common repairs
 const commonRepairs = [
