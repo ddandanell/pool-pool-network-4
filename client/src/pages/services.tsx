@@ -154,7 +154,7 @@ export default function Services() {
         primaryButtonText="Get Free Quote"
         primaryButtonLink="/contact"
         secondaryButtonText="Call Us Now"
-        secondaryButtonLink="tel:+6282237565997"
+        secondaryButtonLink="tel:+62 822-3756-5997"
         backgroundImage={heroImage}
         imageAlt="Professional Bali pool cleaning service and pool maintenance for villa pools"
         badges={[
@@ -448,7 +448,7 @@ export default function Services() {
                 Get Your Free Quote
               </Button>
             </Link>
-            <a href="tel:+6282237565997">
+            <a href="tel:+62 822-3756-5997">
               <Button
                 size="lg"
                 variant="outline"

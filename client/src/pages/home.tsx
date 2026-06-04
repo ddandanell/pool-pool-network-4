@@ -396,7 +396,7 @@ export default function Home() {
                 Get Your Free Quote
               </Button>
             </Link>
-            <a href="tel:+6282237565997">
+            <a href="tel:+62 822-3756-5997">
               <Button
                 size="lg"
                 variant="outline"

@@ -139,7 +139,7 @@ export default function FAQ() {
                 <p className="text-muted-foreground text-sm mb-3">
                   Speak directly with our pool experts
                 </p>
-                <a href="tel:+6282237565997" className="text-primary font-medium hover:underline">
+                <a href="tel:+62 822-3756-5997" className="text-primary font-medium hover:underline">
                   +62 822-3756-5997
                 </a>
               </div>
@@ -264,7 +264,7 @@ export default function FAQ() {
                 Get Your Free Quote
               </Button>
             </Link>
-            <a href="tel:+6282237565997">
+            <a href="tel:+62 822-3756-5997">
               <Button
                 size="lg"
                 variant="outline"

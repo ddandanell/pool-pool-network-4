@@ -38,7 +38,7 @@ const contactMethods = [
     title: "Phone",
     description: "Call us for immediate assistance",
     value: "+62 822-3756-5997",
-    href: "tel:+6282237565997",
+    href: "tel:+62 822-3756-5997",
   },
   {
     icon: Mail,
@@ -122,7 +122,7 @@ export default function Contact() {
         subtitle="Get in Touch"
         description="Ready to get started with professional pool service in Bali? Contact us for a free quote, schedule a consultation, or get answers to your questions. We're here to help."
         primaryButtonText="Call Now"
-        primaryButtonLink="tel:+6282237565997"
+        primaryButtonLink="tel:+62 822-3756-5997"
         secondaryButtonText="WhatsApp"
         secondaryButtonLink="https://wa.me/6282237565997"
         backgroundImage={heroImage}
@@ -239,7 +239,7 @@ export default function Contact() {
                             id="email"
                             name="email"
                             type="email"
-                            placeholder="your@email.com"
+                            placeholder="info@balipoolpros.com"
                             value={formData.email}
                             onChange={handleInputChange}
                             required
@@ -392,7 +392,7 @@ export default function Contact() {
                       urgent issues like pump failures, major leaks, and safety
                       hazards.
                     </p>
-                    <a href="tel:+6282237565997">
+                    <a href="tel:+62 822-3756-5997">
                       <Button className="w-full bg-red-600 hover:bg-red-700 text-white rounded-none h-12">
                         <Phone className="w-4 h-4 mr-2" />
                         Emergency: +62 822-3756-5997
@@ -493,7 +493,7 @@ export default function Contact() {
             We look forward to hearing from you!
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <a href="tel:+6282237565997">
+            <a href="tel:+62 822-3756-5997">
               <Button
                 size="lg"
                 className="w-full sm:w-auto bg-white text-primary hover:bg-white/90 rounded-none h-14 px-8 text-lg font-bold shadow-xl"
