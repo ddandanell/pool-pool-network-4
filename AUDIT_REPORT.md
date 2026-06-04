@@ -78,8 +78,8 @@
 ### ✅ All Instances Updated
 
 **Old Number**: +62 812 3456 7890  
-**New Number**: +62 822-3756-5997  
-**WhatsApp Link**: https://wa.me/6282237565997
+**New Number**: +62 823-2301-1656  
+**WhatsApp Link**: https://wa.me/6282323011656
 
 **Files Updated** (11 files):
 1. ✅ client/src/components/layout/SEO.tsx (structured data)
@@ -521,8 +521,8 @@ npm run build  # ✅ Success
 **Repository**: https://github.com/ddandanell/pool-pool-network-4  
 **Website**: https://balipoolpros.com  
 **Email**: info@balipoolpros.com  
-**Phone**: +62 822-3756-5997  
-**WhatsApp**: https://wa.me/6282237565997
+**Phone**: +62 823-2301-1656  
+**WhatsApp**: https://wa.me/6282323011656
 
 ---
 

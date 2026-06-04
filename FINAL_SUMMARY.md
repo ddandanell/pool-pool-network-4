@@ -27,9 +27,9 @@
 - ✅ Static asset caching optimized (1 year for /assets/*)
 
 ### 3. ✅ WhatsApp Number Replacement (100%)
-- ✅ All instances of +62 812 3456 7890 replaced with +62 822-3756-5997
-- ✅ All wa.me links updated to https://wa.me/6282237565997
-- ✅ All tel: links updated to tel:+6282237565997
+- ✅ All instances of +62 812 3456 7890 replaced with +62 823-2301-1656
+- ✅ All wa.me links updated to https://wa.me/6282323011656
+- ✅ All tel: links updated to tel:+6282323011656
 - ✅ SEO structured data updated
 - ✅ target="_blank" added to WhatsApp links
 
@@ -157,8 +157,8 @@
 - [ ] Verify all routes work (/, /about, /services, etc.)
 - [ ] Test https://yourdomain.com/sitemap.xml
 - [ ] Test https://yourdomain.com/robots.txt
-- [ ] Test WhatsApp links (should open https://wa.me/6282237565997)
-- [ ] Test phone links (should dial +62 822-3756-5997)
+- [ ] Test WhatsApp links (should open https://wa.me/6282323011656)
+- [ ] Test phone links (should dial +62 823-2301-1656)
 - [ ] Submit sitemap to Google Search Console
 - [ ] Submit sitemap to Bing Webmaster Tools
 - [ ] Run Lighthouse audit on production URL
@@ -220,8 +220,8 @@
 ## 📞 Updated Contact Information
 
 **Website**: https://balipoolpros.com  
-**Phone**: +62 822-3756-5997  
-**WhatsApp**: https://wa.me/6282237565997  
+**Phone**: +62 823-2301-1656  
+**WhatsApp**: https://wa.me/6282323011656  
 **Email**: info@balipoolpros.com
 
 ---

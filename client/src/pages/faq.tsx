@@ -139,8 +139,8 @@ export default function FAQ() {
                 <p className="text-muted-foreground text-sm mb-3">
                   Speak directly with our pool experts
                 </p>
-                <a href="tel:+62 822-3756-5997" className="text-primary font-medium hover:underline">
-                  +62 822-3756-5997
+                <a href="tel:+62 823-2301-1656" className="text-primary font-medium hover:underline">
+                  +62 823-2301-1656
                 </a>
               </div>
 
@@ -153,7 +153,7 @@ export default function FAQ() {
                   Quick responses via WhatsApp
                 </p>
                 <a
-                  href="https://wa.me/6282237565997"
+                  href="https://wa.me/6282323011656"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-primary font-medium hover:underline"
@@ -264,14 +264,14 @@ export default function FAQ() {
                 Get Your Free Quote
               </Button>
             </Link>
-            <a href="tel:+62 822-3756-5997">
+            <a href="tel:+62 823-2301-1656">
               <Button
                 size="lg"
                 variant="outline"
                 className="w-full sm:w-auto border-white/30 text-white hover:bg-white/10 rounded-none h-14 px-8 text-lg"
               >
                 <Phone className="w-5 h-5 mr-2" />
-                Call Now: +62 822-3756-5997
+                Call Now: +62 823-2301-1656
               </Button>
             </a>
           </div>

@@ -32,8 +32,8 @@ This repository has been fully audited and optimized for Vercel deployment. All 
    - ✅ Image alt texts verified
 
 4. **Contact Information Updates**
-   - ✅ All WhatsApp numbers updated to: +62 822-3756-5997
-   - ✅ All WhatsApp links updated to: https://wa.me/6282237565997
+   - ✅ All WhatsApp numbers updated to: +62 823-2301-1656
+   - ✅ All WhatsApp links updated to: https://wa.me/6282323011656
    - ✅ Phone links updated throughout
    - ✅ Structured data updated with new number
    - ✅ Target="_blank" added to WhatsApp links
@@ -141,10 +141,10 @@ After deployment, you should achieve the following Lighthouse scores:
    - https://yourdomain.com/robots.txt
 
 4. **Test WhatsApp links**
-   - All WhatsApp buttons should open: https://wa.me/6282237565997
+   - All WhatsApp buttons should open: https://wa.me/6282323011656
 
 5. **Test phone links**
-   - All phone links should dial: +62 822-3756-5997
+   - All phone links should dial: +62 823-2301-1656
 
 6. **Submit to search engines**
    - [Google Search Console](https://search.google.com/search-console)
