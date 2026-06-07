@@ -44,8 +44,8 @@ const contactMethods = [
     icon: Mail,
     title: "Email",
     description: "Send us a detailed inquiry",
-    value: "info@balipoolpros.com",
-    href: "mailto:info@balipoolpros.com",
+    value: "info@balipoolservice.com",
+    href: "mailto:info@balipoolservice.com",
   },
   {
     icon: MessageSquare,
@@ -239,7 +239,7 @@ export default function Contact() {
                             id="email"
                             name="email"
                             type="email"
-                            placeholder="info@balipoolpros.com"
+                            placeholder="info@balipoolservice.com"
                             value={formData.email}
                             onChange={handleInputChange}
                             required

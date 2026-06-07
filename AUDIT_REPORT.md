@@ -520,7 +520,7 @@ npm run build  # ✅ Success
 
 **Repository**: https://github.com/ddandanell/pool-pool-network-4  
 **Website**: https://balipoolpros.com  
-**Email**: info@balipoolpros.com  
+**Email**: info@balipoolservice.com  
 **Phone**: +62 823-2301-1656  
 **WhatsApp**: https://wa.me/6282323011656
 

@@ -222,7 +222,7 @@
 **Website**: https://balipoolpros.com  
 **Phone**: +62 823-2301-1656  
 **WhatsApp**: https://wa.me/6282323011656  
-**Email**: info@balipoolpros.com
+**Email**: info@balipoolservice.com
 
 ---
 

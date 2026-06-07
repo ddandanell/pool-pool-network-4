@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Bali Pool Pros**
 - Website: https://balipoolpros.com
-- Email: info@balipoolpros.com
+- Email: info@balipoolservice.com
 - Phone: +62 823-2301-1656
 - WhatsApp: https://wa.me/6282323011656
 

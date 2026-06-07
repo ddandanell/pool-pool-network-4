@@ -111,10 +111,10 @@ export default function Footer() {
               <p>Indonesia</p>
               <p className="pt-2">
                 <a
-                  href="mailto:info@balipoolpros.com"
+                  href="mailto:info@balipoolservice.com"
                   className="hover:text-white transition-colors"
                 >
-                  info@balipoolpros.com
+                  info@balipoolservice.com
                 </a>
               </p>
               <p>
