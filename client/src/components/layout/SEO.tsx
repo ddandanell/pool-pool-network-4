@@ -19,7 +19,7 @@ export default function SEO({
   structuredData,
 }: SEOProps) {
   const [location] = useLocation();
-  const fullUrl = `https://balipoolpros.com${location}`;
+  const fullUrl = `https://baligreenpoolrescue.online${location}`;
 
   useEffect(() => {
     // Update document title
@@ -114,7 +114,7 @@ export const businessStructuredData = {
   name: "Bali Pool Pros",
   description:
     "Professional pool service in Bali offering pool maintenance, cleaning, repair, and installation for villas, resorts, and residential properties.",
-  url: "https://balipoolpros.com",
+  url: "https://baligreenpoolrescue.online",
   telephone: "+62 823-2301-1656",
   email: "info@balipoolservice.com",
   address: {
@@ -146,7 +146,7 @@ export const businessStructuredData = {
   ],
 
   image:
-    "https://balipoolpros.com/attached_assets/images/luxury_bali_resort_infinity_pool_at_sunset.png",
+    "https://baligreenpoolrescue.online/attached_assets/images/luxury_bali_resort_infinity_pool_at_sunset.png",
   sameAs: [
     "https://www.facebook.com/balipoolpros",
     "https://www.instagram.com/balipoolpros",
