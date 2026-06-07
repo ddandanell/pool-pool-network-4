@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://balipoolpros.com/sitemap.xml
+Sitemap: https://baligreenpoolrescue.online/sitemap.xml
 
 # Crawl-delay for polite bots
 Crawl-delay: 1
