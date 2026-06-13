@@ -209,7 +209,7 @@ export default function PoolMaintenance() {
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p>
                 Maintaining a pool in Bali's tropical climate requires specialized knowledge and
-                consistent care. At Bali Pool Pros, our <strong>pool maintenance Bali</strong> and 
+                consistent care. At Bali Green Pool Rescue, our <strong>pool maintenance Bali</strong> and 
                 <strong>Bali pool cleaning service</strong> are specifically designed to address the unique 
                 challenges that local conditions present, including high humidity that accelerates algae growth, 
                 seasonal monsoons that alter water chemistry, and mineral-rich water sources that can cause buildup. 
@@ -379,7 +379,7 @@ export default function PoolMaintenance() {
               <div className="absolute -inset-4 bg-gradient-to-r from-primary to-cyan-500 rounded-3xl opacity-20 blur-2xl" />
               <img
                 src={dashboardImage}
-                alt="Digital pool maintenance reporting dashboard - Bali Pool Pros"
+                alt="Digital pool maintenance reporting dashboard - Bali Green Pool Rescue"
                 className="relative rounded-xl shadow-2xl border border-white/50 w-full"
                 loading="lazy"
               />

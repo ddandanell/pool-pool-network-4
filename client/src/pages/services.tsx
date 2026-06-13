@@ -174,7 +174,7 @@ export default function Services() {
             </h2>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p>
-                At Bali Pool Pros, we understand that your pool is more than just a water feature—it's
+                At Bali Green Pool Rescue, we understand that your pool is more than just a water feature—it's
                 a centerpiece of relaxation, entertainment, and property value. That's why we offer
                 comprehensive <strong>pool services Bali</strong> that cover every aspect of pool ownership, from
                 routine <strong>pool maintenance Bali</strong> to emergency <strong>pool rescue & cleaning Bali</strong>, 
@@ -339,14 +339,14 @@ export default function Services() {
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-3xl sm:text-4xl font-serif font-bold text-primary mb-4">
-                Why Choose Bali Pool Pros for Your Pool Service?
+                Why Choose Bali Green Pool Rescue for Your Pool Service?
               </h2>
             </div>
 
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p>
                 Choosing the right pool service provider in Bali is crucial for maintaining the
-                beauty, safety, and longevity of your pool investment. At Bali Pool Pros, we've
+                beauty, safety, and longevity of your pool investment. At Bali Green Pool Rescue, we've
                 built our reputation on delivering consistent, high-quality pool maintenance Bali
                 services that exceed client expectations.
               </p>
@@ -374,7 +374,7 @@ export default function Services() {
               <p>
                 Whether you need regular pool maintenance for a private villa, comprehensive
                 pool repair services for a resort, or a complete swimming pool installation for
-                a new property, Bali Pool Pros has the expertise, equipment, and dedication to
+                a new property, Bali Green Pool Rescue has the expertise, equipment, and dedication to
                 deliver exceptional results every time.
               </p>
             </div>

@@ -1,0 +1,6 @@
+# baligreenpoolrescue.online robots.txt
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://baligreenpoolrescue.online/sitemap.xml

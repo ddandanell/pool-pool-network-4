@@ -111,7 +111,7 @@ export default function SEO({
 export const businessStructuredData = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Bali Pool Pros",
+  name: "Bali Green Pool Rescue",
   description:
     "Professional pool service in Bali offering pool maintenance, cleaning, repair, and installation for villas, resorts, and residential properties.",
   url: "https://baligreenpoolrescue.online",

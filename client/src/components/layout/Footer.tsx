@@ -40,7 +40,7 @@ export default function Footer() {
             <div className="flex items-center gap-2 text-white">
               <Droplets className="h-5 w-5" aria-hidden="true" />
               <span className="font-serif text-lg font-bold tracking-tight">
-                Bali Pool Pros<span className="text-primary font-light">.</span>
+                Bali Green Pool Rescue<span className="text-primary font-light">.</span>
               </span>
             </div>
             <p className="leading-relaxed">
@@ -133,7 +133,7 @@ export default function Footer() {
         <div className="mt-16 pt-8 border-t border-slate-800">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs">
             <p>
-              © {currentYear} Bali Pool Pros. All rights reserved. | Pool Service in Bali
+              © {currentYear} Bali Green Pool Rescue. All rights reserved. | Pool Service in Bali
             </p>
             <div className="flex gap-6">
               <Link href="/privacy" className="hover:text-white transition-colors">

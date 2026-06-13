@@ -31,7 +31,7 @@ export const generalPoolFAQs: FAQItem[] = [
   {
     question: "Do you offer pool services for both villas and resorts in Bali?",
     answer:
-      "Yes! Bali Pool Pros provides comprehensive pool service in Bali for all property types, from private villa pools to large resort facilities. We tailor our services to match your specific needs, whether you need weekly maintenance for a small plunge pool or daily care for a commercial resort with multiple pools.",
+      "Yes! Bali Green Pool Rescue provides comprehensive pool service in Bali for all property types, from private villa pools to large resort facilities. We tailor our services to match your specific needs, whether you need weekly maintenance for a small plunge pool or daily care for a commercial resort with multiple pools.",
   },
   {
     question: "What pool cleaning chemicals do you use in Bali?",
@@ -61,7 +61,7 @@ export const generalPoolFAQs: FAQItem[] = [
   {
     question: "What areas in Bali do you serve?",
     answer:
-      "Bali Pool Pros provides pool service throughout Bali including Seminyak, Canggu, Ubud, Sanur, Jimbaran, Uluwatu, Nusa Dua, and surrounding areas. We have technicians stationed across the island to ensure prompt service wherever you are located.",
+      "Bali Green Pool Rescue provides pool service throughout Bali including Seminyak, Canggu, Ubud, Sanur, Jimbaran, Uluwatu, Nusa Dua, and surrounding areas. We have technicians stationed across the island to ensure prompt service wherever you are located.",
   },
   {
     question: "How do I get a quote for pool services in Bali?",

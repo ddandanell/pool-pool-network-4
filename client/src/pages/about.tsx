@@ -39,7 +39,7 @@ const teamMembers = [
   {
     name: "Wayan Sudirta",
     role: "Senior Pool Technician",
-    bio: "A certified pool water chemistry specialist, Wayan has been with Bali Pool Pros since 2012. He trains our team and develops customized maintenance protocols for each client.",
+    bio: "A certified pool water chemistry specialist, Wayan has been with Bali Green Pool Rescue since 2012. He trains our team and develops customized maintenance protocols for each client.",
     image: "/placeholder-team-3.jpg",
   },
   {
@@ -57,7 +57,7 @@ const teamMembers = [
   {
     name: "Ni Luh Komang",
     role: "Quality Assurance Lead",
-    bio: "Komang conducts regular quality audits of our services and maintains our certification standards. She ensures every pool we service meets Bali Pool Pros' high standards.",
+    bio: "Komang conducts regular quality audits of our services and maintains our certification standards. She ensures every pool we service meets Bali Green Pool Rescue' high standards.",
     image: "/placeholder-team-6.jpg",
   },
 ];
@@ -68,7 +68,7 @@ const milestones = [
     year: "2010",
     title: "Company Founded",
     description:
-      "Bali Pool Pros was founded by a group of local Balinese experts and expatriate engineers in Ubud, starting as a small maintenance team serving local villas.",
+      "Bali Green Pool Rescue was founded by a group of local Balinese experts and expatriate engineers in Ubud, starting as a small maintenance team serving local villas.",
   },
   {
     year: "2013",
@@ -134,9 +134,9 @@ export default function About() {
   return (
     <Layout>
       <SEO
-        title="About Bali Pool Pros | Pool Service Experts in Bali Since 2010"
-        description="Learn about Bali Pool Pros, Bali's leading pool service company. Our expert team provides pool maintenance, cleaning, repair, and installation services throughout the island since 2010."
-        keywords="about Bali Pool Pros, pool service company Bali, pool experts Bali, pool maintenance team Bali, professional pool technicians Bali"
+        title="About Bali Green Pool Rescue | Pool Service Experts in Bali Since 2010"
+        description="Learn about Bali Green Pool Rescue, Bali's leading pool service company. Our expert team provides pool maintenance, cleaning, repair, and installation services throughout the island since 2010."
+        keywords="about Bali Green Pool Rescue, pool service company Bali, pool experts Bali, pool maintenance team Bali, professional pool technicians Bali"
         structuredData={{
           ...businessStructuredData,
           "@type": "AboutPage",
@@ -145,15 +145,15 @@ export default function About() {
 
       {/* Hero Section */}
       <HeroSection
-        title="About Bali Pool Pros"
+        title="About Bali Green Pool Rescue"
         subtitle="Our Story"
-        description="Founded in 2010, Bali Pool Pros has grown from a small maintenance team to Bali's most trusted pool service provider. Learn about our journey, our team, and our commitment to excellence."
+        description="Founded in 2010, Bali Green Pool Rescue has grown from a small maintenance team to Bali's most trusted pool service provider. Learn about our journey, our team, and our commitment to excellence."
         primaryButtonText="Contact Our Team"
         primaryButtonLink="/contact"
         secondaryButtonText="View Our Services"
         secondaryButtonLink="/services"
         backgroundImage={heroImage}
-        imageAlt="Luxury pool in Bali - About Bali Pool Pros pool service company"
+        imageAlt="Luxury pool in Bali - About Bali Green Pool Rescue pool service company"
         compact={true}
       />
 
@@ -172,7 +172,7 @@ export default function About() {
 
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p>
-                Bali Pool Pros was founded in 2010 by a group of local Balinese experts and
+                Bali Green Pool Rescue was founded in 2010 by a group of local Balinese experts and
                 expatriate engineers who saw a growing need for professional, reliable pool
                 service in Bali. What started as a small maintenance team serving just a handful
                 of villas in Ubud has grown into the island's most trusted pool service provider,
@@ -194,7 +194,7 @@ export default function About() {
                 advanced water purification systems.
               </p>
               <p>
-                Today, Bali Pool Pros is proud to serve some of the island's most prestigious
+                Today, Bali Green Pool Rescue is proud to serve some of the island's most prestigious
                 properties, from five-star resorts in Nusa Dua to private villas in Ubud's rice
                 terraces. Our commitment to excellence, eco-friendly practices, and exceptional
                 customer service has earned us the trust of property owners and managers across
@@ -361,7 +361,7 @@ export default function About() {
               <div className="absolute -left-4 -top-4 w-2/3 h-2/3 bg-secondary rounded-xl -z-10" />
               <img
                 src={techImage}
-                alt="Bali Pool Pros technician providing professional pool service"
+                alt="Bali Green Pool Rescue technician providing professional pool service"
                 className="rounded-xl shadow-xl w-full object-cover aspect-[4/3]"
                 loading="lazy"
               />
@@ -376,7 +376,7 @@ export default function About() {
                   Trusted by Hundreds of Properties Across Bali
                 </h2>
                 <p className="text-lg text-muted-foreground leading-relaxed">
-                  When you choose Bali Pool Pros, you're choosing a partner dedicated to
+                  When you choose Bali Green Pool Rescue, you're choosing a partner dedicated to
                   maintaining the perfect pool experience for you and your guests. Our
                   reputation as Bali pool experts is built on years of consistent,
                   high-quality service.
@@ -422,14 +422,14 @@ export default function About() {
       {/* FAQ Section */}
       <FAQSection
         title="Questions About Our Company"
-        subtitle="Learn more about Bali Pool Pros and our pool services"
+        subtitle="Learn more about Bali Green Pool Rescue and our pool services"
       />
 
       {/* CTA Section */}
       <section className="py-16 sm:py-20 lg:py-24 bg-primary text-primary-foreground">
         <div className="container mx-auto px-4 sm:px-6 text-center">
           <h2 className="text-3xl sm:text-4xl font-serif font-bold mb-6">
-            Ready to Experience the Bali Pool Pros Difference?
+            Ready to Experience the Bali Green Pool Rescue Difference?
           </h2>
           <p className="text-lg sm:text-xl text-primary-foreground/80 max-w-2xl mx-auto mb-10">
             Join hundreds of satisfied clients who trust us with their pool care.

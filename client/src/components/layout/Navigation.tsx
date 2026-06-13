@@ -35,10 +35,10 @@ export default function Navigation() {
     >
       <div className="container mx-auto px-4 sm:px-6 h-20 flex items-center justify-between">
         {/* Logo */}
-        <Link href="/" className="flex items-center gap-2" aria-label="Bali Pool Pros Home">
+        <Link href="/" className="flex items-center gap-2" aria-label="Bali Green Pool Rescue Home">
           <Droplets className="h-6 w-6 text-primary" aria-hidden="true" />
           <span className="font-serif text-xl font-bold tracking-tight text-primary">
-            Bali Pool Pros<span className="text-muted-foreground font-light">.</span>
+            Bali Green Pool Rescue<span className="text-muted-foreground font-light">.</span>
           </span>
         </Link>
 

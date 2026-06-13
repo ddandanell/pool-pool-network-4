@@ -226,7 +226,7 @@ export default function PoolRepair() {
               <p>
                 When your pool equipment fails or your pool turns green, you need fast, reliable
                 <strong>pool rescue & cleaning Bali</strong> service from experienced professionals. 
-                Bali Pool Pros offers comprehensive <strong>emergency pool repair</strong> and 
+                Bali Green Pool Rescue offers comprehensive <strong>emergency pool repair</strong> and 
                 <strong>green pool cleaning</strong> services for all types of issues, from minor fixes 
                 to major equipment overhauls and complete pool rescue. Our team of certified technicians 
                 is available 24/7 for emergencies in Seminyak, Canggu, Ubud, Sanur, and throughout Bali, 
@@ -260,7 +260,7 @@ export default function PoolRepair() {
                 a warranty, and we provide clear documentation of the work performed. <Link href="/faq" 
                 className="text-primary font-medium hover:underline">Visit our FAQ page</Link> to learn more 
                 about our <strong>emergency pool repair response times</strong> and <strong>green pool 
-                cleaning process</strong>. You can trust Bali Pool Pros for honest, professional <strong>pool 
+                cleaning process</strong>. You can trust Bali Green Pool Rescue for honest, professional <strong>pool 
                 rescue & cleaning Bali</strong> service throughout the island.
               </p>
             </div>
@@ -442,7 +442,7 @@ export default function PoolRepair() {
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-3xl sm:text-4xl font-serif font-bold text-primary mb-4">
-                Why Choose Bali Pool Pros for Pool Repairs?
+                Why Choose Bali Green Pool Rescue for Pool Repairs?
               </h2>
             </div>
 
@@ -491,7 +491,7 @@ export default function PoolRepair() {
 
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p>
-                When you choose Bali Pool Pros for your pool repair needs, you're choosing a
+                When you choose Bali Green Pool Rescue for your pool repair needs, you're choosing a
                 company with over 15 years of experience servicing pools across Bali. Our
                 technicians are trained professionals who take pride in their work and treat
                 your pool with the same care they would give their own.

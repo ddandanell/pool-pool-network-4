@@ -105,7 +105,7 @@ export default function Blog() {
   return (
     <Layout>
       <SEO
-        title="Pool Care Blog | Pool Maintenance Tips for Bali | Bali Pool Pros"
+        title="Pool Care Blog | Pool Maintenance Tips for Bali | Bali Green Pool Rescue"
         description="Expert pool care tips and advice for pool owners in Bali. Learn about pool maintenance, repair, installation, and how to keep your pool perfect in Bali's tropical climate."
         keywords="pool blog Bali, pool maintenance tips Bali, pool care advice Bali, swimming pool tips Bali, pool cleaning guide Bali"
         structuredData={{
@@ -303,7 +303,7 @@ export default function Blog() {
                 Your Resource for Pool Care in Bali
               </h2>
               <p>
-                Welcome to the Bali Pool Pros blog, your go-to resource for expert pool
+                Welcome to the Bali Green Pool Rescue blog, your go-to resource for expert pool
                 care information tailored specifically for Bali's unique conditions. Our
                 team of Bali pool experts shares their knowledge and experience to help
                 you maintain a beautiful, healthy pool throughout the year.
@@ -351,7 +351,7 @@ export default function Blog() {
             </h2>
             <p className="text-muted-foreground mb-8">
               Subscribe to receive the latest pool care tips, special offers, and
-              updates from Bali Pool Pros directly to your inbox.
+              updates from Bali Green Pool Rescue directly to your inbox.
             </p>
             <form className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
               <input

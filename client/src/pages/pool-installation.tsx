@@ -214,7 +214,7 @@ export default function PoolInstallation() {
               <p>
                 Building a pool in Bali is a significant investment that requires the right
                 combination of design expertise, construction skills, and local knowledge.
-                At Bali Pool Pros, we bring over 15 years of <strong>swimming pool installation Bali</strong>
+                At Bali Green Pool Rescue, we bring over 15 years of <strong>swimming pool installation Bali</strong>
                 and <strong>villa pool cleaning Bali</strong> experience to every project, creating stunning 
                 pools that enhance your property and provide years of enjoyment in Bali's tropical paradise. 
                 Our <strong>kolam renang installation Bali</strong> services (jasa instalasi kolam renang) 
@@ -405,7 +405,7 @@ export default function PoolInstallation() {
               <div className="absolute -right-4 -bottom-4 w-2/3 h-2/3 bg-secondary rounded-xl -z-10" />
               <img
                 src={heroImage}
-                alt="Pool installation project in Bali by Bali Pool Pros"
+                alt="Pool installation project in Bali by Bali Green Pool Rescue"
                 className="rounded-xl shadow-xl w-full object-cover aspect-[4/3]"
                 loading="lazy"
               />
@@ -416,7 +416,7 @@ export default function PoolInstallation() {
                 Why Choose Us
               </span>
               <h2 className="text-3xl sm:text-4xl font-serif font-bold text-primary">
-                Why Build Your Pool with Bali Pool Pros?
+                Why Build Your Pool with Bali Green Pool Rescue?
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 We're not just pool builders—we're Bali pool experts who understand

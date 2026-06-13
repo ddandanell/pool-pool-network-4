@@ -107,8 +107,8 @@ export default function Contact() {
   return (
     <Layout>
       <SEO
-        title="Contact Bali Pool Pros | Get a Free Pool Service Quote"
-        description="Contact Bali Pool Pros for pool maintenance, repair, and installation services in Bali. Get a free quote today. Available 24/7 for emergencies across the island."
+        title="Contact Bali Green Pool Rescue | Get a Free Pool Service Quote"
+        description="Contact Bali Green Pool Rescue for pool maintenance, repair, and installation services in Bali. Get a free quote today. Available 24/7 for emergencies across the island."
         keywords="contact pool service Bali, pool maintenance quote Bali, pool repair quote Bali, pool installation quote Bali, pool service phone Bali"
         structuredData={{
           ...businessStructuredData,
@@ -126,7 +126,7 @@ export default function Contact() {
         secondaryButtonText="WhatsApp"
         secondaryButtonLink="https://wa.me/6282323011656"
         backgroundImage={heroImage}
-        imageAlt="Contact Bali Pool Pros for pool services in Bali"
+        imageAlt="Contact Bali Green Pool Rescue for pool services in Bali"
         badges={[
           "Free Quotes",
           "24/7 Emergency Line",
@@ -343,7 +343,7 @@ export default function Contact() {
                       <MapPin className="w-6 h-6 text-primary flex-shrink-0" />
                       <div>
                         <h3 className="font-semibold text-primary mb-2">
-                          Bali Pool Pros
+                          Bali Green Pool Rescue
                         </h3>
                         <address className="not-italic text-muted-foreground">
                           <p>Jl. Raya Ubud No. 45</p>
@@ -442,7 +442,7 @@ export default function Contact() {
                 Get in Touch with Bali's Pool Service Experts
               </h2>
               <p>
-                At Bali Pool Pros, we believe in making pool service in Bali as
+                At Bali Green Pool Rescue, we believe in making pool service in Bali as
                 convenient and stress-free as possible. That's why we offer multiple
                 ways to reach us—whether you prefer a phone call, email, WhatsApp
                 message, or filling out our online form. Our friendly team is ready
@@ -467,7 +467,7 @@ export default function Contact() {
               </p>
               <p>
                 Whether you need regular pool maintenance, emergency repairs, or
-                you're planning a new pool installation, Bali Pool Pros is here to
+                you're planning a new pool installation, Bali Green Pool Rescue is here to
                 help. Contact us today and discover why we're trusted by hundreds of
                 property owners across Bali for their pool service needs.
               </p>

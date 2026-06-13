@@ -92,7 +92,7 @@ export default function Home() {
               Bali's Most Trusted Pool Cleaning Service & Maintenance Provider
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-              Welcome to Bali Pool Pros, your premier <strong>Bali pool cleaning service</strong> destination. 
+              Welcome to Bali Green Pool Rescue, your premier <strong>Bali pool cleaning service</strong> destination. 
               For over 15 years, we have been the trusted choice for villa owners, resort managers, and homeowners 
               seeking exceptional <strong>pool maintenance Bali</strong>, villa pool cleaning, pool rescue & cleaning, 
               and complete <strong>kolam renang Bali service</strong> across the Island of the Gods. Our team of certified 
@@ -195,7 +195,7 @@ export default function Home() {
             <div className="space-y-8">
               <div>
                 <span className="text-primary font-medium tracking-wider text-sm uppercase border-b border-primary/20 pb-1">
-                  Why Choose Bali Pool Pros
+                  Why Choose Bali Green Pool Rescue
                 </span>
                 <h2 className="text-3xl sm:text-4xl font-serif font-bold text-primary mt-4 mb-6">
                   Expert Pool Care Designed for Bali's Unique Climate

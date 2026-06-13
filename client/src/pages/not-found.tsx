@@ -7,8 +7,8 @@ export default function NotFound() {
   return (
     <Layout>
       <SEO
-        title="Page Not Found | Bali Pool Pros"
-        description="The page you're looking for doesn't exist. Return to Bali Pool Pros for professional pool services in Bali."
+        title="Page Not Found | Bali Green Pool Rescue"
+        description="The page you're looking for doesn't exist. Return to Bali Green Pool Rescue for professional pool services in Bali."
       />
       <div className="min-h-[60vh] flex items-center justify-center py-20">
         <div className="text-center px-4">
