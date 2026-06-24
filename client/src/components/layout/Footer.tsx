@@ -144,6 +144,12 @@ export default function Footer() {
               </Link>
             </div>
           </div>
+          <div className="mt-4 text-center text-xs text-slate-400">
+            Settling into Bali? We recommend{" "}
+            <a href="https://privatetutoringbali.com/" target="_blank" rel="noopener" className="underline hover:text-white transition-colors">in-villa tutoring in Bali</a>{" "}
+            and a{" "}
+            <a href="https://mychef.id/" target="_blank" rel="noopener" className="underline hover:text-white transition-colors">Bali private chef service</a>.
+          </div>
         </div>
       </div>
     </footer>
